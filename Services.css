@@ -1,0 +1,13 @@
+body{
+	margin-bottom: 25%;
+	font-family: sans-serif;
+}
+.jj{
+	background-color: white;
+	border-radius: 17px;
+	box-shadow: 2px 3px 4px grey, -2px -3px 8px grey;
+	margin-left: 1%;
+	font-size: 19px;
+	padding: 9px;
+	width: 200px;
+}
